@@ -19,7 +19,7 @@ public class AllTheMaths {
         System.out.print("233 times 31 minus 42 is: ");
         System.out.println(233 * 31 - 42);
         
-        System.out.print("Is 4 greater than -1?");
+        System.out.print("Is 4 greater than -1? ");
         System.out.println(4 > -1);
         
         System.out.println("\n****** Now make the computer do some harder math!");
